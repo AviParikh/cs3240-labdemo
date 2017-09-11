@@ -1,1 +1,3 @@
-print("hello")
+
+import helper
+helper.greeting("hello")
